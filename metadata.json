@@ -1,0 +1,6 @@
+{
+  "name": "Corbett Nature Retreat",
+  "description": "Welcome to Corbett Nature Retreat. Surrounded all around by lush mango trees offering cool natural shade along the Khichri River in Kyari, Jim Corbett. Experience thrilling jungle safaris and complete comfort.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
